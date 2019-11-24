@@ -1,0 +1,32 @@
+{
+  "name": "goodmc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "base64-img": "^1.0.4",
+    "canvas": "^2.6.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.0",
+    "firebase": "^7.4.0",
+    "fs": "0.0.1-security",
+    "get-tweets": "^4.0.0",
+    "get-twitter-info": "^2.0.2",
+    "jimp": "^0.6.4",
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "node-superfetch": "^0.1.9",
+    "numero-por-extenso": "^1.0.5",
+    "parse-ms": "^2.1.0",
+    "request": "^2.88.0",
+    "steam-provider": "^0.3.2"
+  }
+}
