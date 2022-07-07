@@ -22,7 +22,7 @@
     "get-twitter-info": "^2.0.2",
     "jimp": "^0.6.4",
     "jsonfile": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-superfetch": "^0.1.9",
     "numero-por-extenso": "^1.0.5",
     "parse-ms": "^2.1.0",
